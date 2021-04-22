@@ -3,7 +3,7 @@ class Rubber{
 	{
 	// assign options to the rubber ball
 	var options ={
-		'restitution':0.3,
+		'restitution':0.8,
 		'friction':5,
 		'density':1
 	}
